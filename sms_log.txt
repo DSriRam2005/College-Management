@@ -1,0 +1,45 @@
+Sent to: 9014272629 | Msg: Dear Parent,
+MUMMIDI ANIL KUMAR was absent today.
+For any queries, kindly contact the class teacher:
+Mr. SALLAPUDI SURESH (Ph: 9440077033).
+KIET | Response: {"status":"success","totalnumbers_sbmited":1,"campg_id":1126481,"logid":"69310d490ef86","code":"100","ts":"2025-12-04 09:55:45"}
+Sent to: 9014272629 | Msg: Dear Parent,
+DOMMETI LITHIN SRIRAM was absent today.
+For any queries, kindly contact the class teacher:
+Mr. SALLAPUDI SURESH (Ph: 9440077033).
+KIET | Response: {"status":"success","totalnumbers_sbmited":1,"campg_id":"1126481","logid":"69310d49a0fbd","code":"100","ts":"2025-12-04 09:55:45"}
+Sent to: 9666380668 | Msg: Dear Parent,
+MUMMIDI ANIL KUMAR was absent today.
+For any queries, kindly contact the class teacher:
+Mr. SALLAPUDI SURESH (Ph: 9440077033).
+KIET | Response: {"status":"success","totalnumbers_sbmited":1,"campg_id":"1126481","logid":"69310d4a38d4c","code":"100","ts":"2025-12-04 09:55:46"}
+Sent to: 9666380668 | Msg: Dear Parent,
+DOMMETI LITHIN SRIRAM was absent today.
+For any queries, kindly contact the class teacher:
+Mr. SALLAPUDI SURESH (Ph: 9440077033).
+KIET | Response: {"status":"success","totalnumbers_sbmited":1,"campg_id":"1126481","logid":"69310d4ac4826","code":"100","ts":"2025-12-04 09:55:46"}
+Sent to: 9441148910 | Msg: Dear Parent,
+DOMMETI LITHIN SRIRAM was absent today.
+For any queries, kindly contact the class teacher:
+Mr. SALLAPUDI SURESH (Ph: 9440077033).
+KIET | Response: {"status":"success","totalnumbers_sbmited":1,"campg_id":"1126481","logid":"69310d4b5e5e6","code":"100","ts":"2025-12-04 09:55:47"}
+Sent to: 9666380668 | Msg: Dear Parent,
+MUMMIDI ANIL KUMAR was absent today.
+For any queries, kindly contact the class teacher:
+Mr. SALLAPUDI SURESH (Ph: 9440077033).
+KIET | Response: {"status":"success","totalnumbers_sbmited":1,"campg_id":"1126481","logid":"69310df8b527d","code":"100","ts":"2025-12-04 09:58:40"}
+Sent to: 9014272629 | Msg: Dear Parent,
+MUMMIDI ANIL KUMAR was absent today.
+For any queries, kindly contact the class teacher:
+Mr. SALLAPUDI SURESH (Ph: 9440077033).
+KIET | Response: {"status":"success","totalnumbers_sbmited":1,"campg_id":"1126481","logid":"69310df94ee0f","code":"100","ts":"2025-12-04 09:58:41"}
+Sent to: 9014272629 | Msg: Dear Parent,
+DOMMETI LITHIN SRIRAM was absent today.
+For any queries, kindly contact the class teacher:
+Mr. SALLAPUDI SURESH (Ph: 9440077033).
+KIET | Response: {"status":"success","totalnumbers_sbmited":1,"campg_id":"1126481","logid":"69310df9db9ca","code":"100","ts":"2025-12-04 09:58:41"}
+Sent to: 9441148910 | Msg: Dear Parent,
+DOMMETI LITHIN SRIRAM was absent today.
+For any queries, kindly contact the class teacher:
+Mr. SALLAPUDI SURESH (Ph: 9440077033).
+KIET | Response: {"status":"success","totalnumbers_sbmited":1,"campg_id":"1126481","logid":"69310dfa772e1","code":"100","ts":"2025-12-04 09:58:42"}
